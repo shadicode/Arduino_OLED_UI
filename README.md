@@ -1,6 +1,5 @@
-# OLED_Usr_Interface
+# Arduino Menu/UI using OLED & Rotary Encoder
 
-http://www.shadi.ch
 
 White 0.96" I2C 128X64 OLED LCD Display Module : 
 eBay (gc_supermarket) for 6.46 USD 
@@ -26,3 +25,6 @@ eBay for 0.99 USD
 
 Arduino Menu-System (jonblack/arduino-menusystem)
 An arduino library for implementing a menu system.
+
+Shadi Soundation
+http://www.shadi.ch
